@@ -23,19 +23,21 @@ This project analyzes weather data using Python, SQL, and Power BI.
 # Dashboard Screenshots
 
 ## Average Temperature by Date
-![Temperature](temperature_by_date.png)
+![Average Temperature by Date](images/avg_temp_by_date.png)
 
 ## Average Temperature by Station
-![Station](average_temperature_station.png)
+![Average Temperature by Station](images/avg_temp_by_station.png)
 
 ## Temperature VS Humidity
-![Humidity](temperature_vs_humidity.png)
+![Temperature VS Humidity](images/temp_vs_humidity.png)
 
 ## Snowfall Distribution
-![Snowfall](snowfall_distribution.png)
+![Snowfall Distribution](images/snowfall_distribution.png)
 
 ## Top Stations by Temperature
-![Top Stations](top_stations_temperature.png)
+![Top Stations by Temperature](images/top_stations.png)
 
 ## Filter By Date
-![Filter](filter_by_date.png)
+![Filter By Date](images/filter_by_date.png)
+
+
